@@ -1,0 +1,10 @@
+INSERT INTO Autos (nombre, precio, create_at) VALUES ('Toyota Corolla', 350000, NOW());
+INSERT INTO Autos (nombre, precio, create_at) VALUES ('Honda Civic', 370000, NOW());
+INSERT INTO Autos (nombre, precio, create_at) VALUES ('Ford Mustang', 650000, NOW());
+INSERT INTO Autos (nombre, precio, create_at) VALUES ('Chevrolet Camaro', 700000, NOW());
+INSERT INTO Autos (nombre, precio, create_at) VALUES ('Nissan Altima', 400000, NOW());
+INSERT INTO Autos (nombre, precio, create_at) VALUES ('BMW Serie 3', 800000, NOW());
+INSERT INTO Autos (nombre, precio, create_at) VALUES ('Mercedes-Benz Clase C', 900000, NOW());
+INSERT INTO Autos (nombre, precio, create_at) VALUES ('Audi A4', 850000, NOW());
+INSERT INTO Autos (nombre, precio, create_at) VALUES ('Volkswagen Jetta', 300000, NOW());
+INSERT INTO Autos (nombre, precio, create_at) VALUES ('Kia Sportage', 420000, NOW());
